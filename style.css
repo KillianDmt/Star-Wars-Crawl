@@ -1,0 +1,10 @@
+body {
+  background-image: url('');
+  <!--bg pos bottom left -- bg size cover ? -->
+  display : flex;
+  justify-content : center;
+}
+
+h1{
+  color:blue;
+}
